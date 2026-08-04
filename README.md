@@ -19,7 +19,7 @@ Tip: If hosting on YouTube, you can also embed a thumbnail preview like this:
 
 ---
 
-## 1. Background & Overview
+## 📖 Background & Overview
 
 **Wavecon**, a telecom provider with roughly a **20% market share**, underwent a nine-month transformation from 3G/4G to 5G between **January and September 2022**.
 
@@ -27,7 +27,7 @@ This project analyzes the impact of the 5G rollout on **revenue, market share, a
 
 ---
 
-## 2. Data Structure Overview
+## 🗂 Data Structure Overview
 
 The analysis covers three distinct phases:
 
@@ -46,7 +46,7 @@ The analysis covers three distinct phases:
 
 ---
 
-## 3. Executive Summary
+## 💡 Executive Summary
 
 The 5G launch represented a **"Value vs. Volume" trade-off**:
 
@@ -57,7 +57,7 @@ This stagnation is driven by a **shrinking user base (-8.28% active users)** and
 
 ---
 
-## 4. Key Insights
+## 📊 Key Insights
 
 ### Market Share Erosion
 - Wavecon experienced a **3.13-point drop in market share** (from 20.97% to 17.84%) immediately following the 5G launch, coinciding with aggressive competitor acquisition pushes.
@@ -72,7 +72,7 @@ This stagnation is driven by a **shrinking user base (-8.28% active users)** and
 
 ---
 
-## 5. Recommendations
+## 🚀 Strategic Recommendations
 
 | Recommendation | Action |
 |---|---|
